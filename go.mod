@@ -7,7 +7,7 @@ require (
 	github.com/adjust/rmq/v5 v5.1.1
 	github.com/bugsnag/bugsnag-go/v2 v2.2.0
 	github.com/dustin/go-humanize v1.0.1
-	github.com/go-co-op/gocron v1.19.0
+	github.com/go-co-op/gocron v1.33.1
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/go-redis/redis/extra/redisotel/v8 v8.11.5
 	github.com/go-redis/redis/v8 v8.11.5
@@ -43,7 +43,7 @@ require (
 	github.com/go-redis/redis/extra/rediscmd/v8 v8.11.5 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
-	github.com/google/uuid v1.3.0 // indirect
+	github.com/google/uuid v1.3.1 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.2 // indirect
 	github.com/honeycombio/otel-launcher-go v0.3.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
